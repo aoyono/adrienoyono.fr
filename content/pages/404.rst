@@ -1,0 +1,5 @@
+:status: hidden
+:title: 404 - Not Found
+
+I deleted this content or it even never ever existed before !
+Try something else :)
