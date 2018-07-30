@@ -1,6 +1,10 @@
+:status: published
+:slug: starting-new-python-project-using-cookies
+:title: Starting a new Python project using cookies
+:lang: en
+:author: Morning Dew
+:date: 2018-04-20
 
-Starting a new Python project using cookies (¡miam!)
-----------------------------------------------------
 
 In this blog post, I talk about how to quickstart a new project in the
 popular `Python <https://www.python.org>`__ programming language. (I use

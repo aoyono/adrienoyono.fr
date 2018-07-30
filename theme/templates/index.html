@@ -9,7 +9,7 @@
          <ol id="posts-list" class="hfeed">
              <li><article class="hentry">
                 <header>
-                        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+                        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a><span class="ert"> {% if article.ert %} <em>{{ article.ert }} </em> {% endif %}</span></h1>
                 </header>
 
                 <div class="entry-content">
@@ -22,7 +22,7 @@
     {% else %}
         <li><article class="hentry">
                 <header>
-                        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+                        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a><span class="ert"> {% if article.ert %} <em>{{ article.ert }} </em> {% endif %}</span></h1>
                 </header>
 
                 <div class="entry-content">

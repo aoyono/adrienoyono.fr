@@ -3,11 +3,17 @@
 
 # This file is only used if you use `make publish` or
 # explicitly specify it as your config file.
-
 import os
 import sys
+
 sys.path.append(os.curdir)
-from .pelicanconf import *
+
+from pelicanconf import *       # isort:skip
+
+
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
 
 SITEURL = 'https://adrienoyono.fr'
 RELATIVE_URLS = False

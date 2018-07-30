@@ -1,5 +1,6 @@
 :title: About
 :lang: en
+:status: published
 
 You've reached the blog of Oyono. Welcome !
 

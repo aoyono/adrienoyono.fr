@@ -4,14 +4,18 @@
 SITENAME = 'Morning Dew'
 SITEURL = 'http://localhost:8000'
 
+STATIC_PATHS = ['images']
 PATH = 'content'
 PAGE_PATHS = ['pages']
 PLUGIN_PATHS = ['plugins', 'plugins/pelican-plugins', '../pelican-themes/']
-PLUGINS = ['pelican-ert',]
+PLUGINS = ['pelican-ert', 'better_figures_and_images']
+
+# plugin: better_figures_and_images
+RESPONSIVE_IMAGES = True
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'fr'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -43,24 +47,24 @@ TYPOGRIFY = True
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 ARTICLE_LANG_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/{lang}/'
-ARTICLE_LANG_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}-{lang}/index.html'
+ARTICLE_LANG_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/{lang}/index.html'
 
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 PAGE_LANG_URL = 'pages/{slug}/{lang}/'
-PAGE_LANG_SAVE_AS = 'pages/{slug}-{lang}/index.html'
+PAGE_LANG_SAVE_AS = 'pages/{slug}/{lang}/index.html'
 
 DRAFT_URL = 'drafts/{slug}/'
 DRAFT_SAVE_AS = 'drafts/{slug}/index.html'
 DRAFT_LANG_URL = 'drafts/{slug}/{lang}/'
-DRAFT_LANG_SAVE_AS = 'drafts/{slug}-{lang}/index.html'
+DRAFT_LANG_SAVE_AS = 'drafts/{slug}/{lang}/index.html'
 
 CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 CATEGORY_LANG_URL = 'category/{slug}/{lang}/'
-CATEGORY_LANG_SAVE_AS = 'category/{slug}-{lang}/index.html'
+CATEGORY_LANG_SAVE_AS = 'category/{slug}/{lang}/index.html'
 
-DEFAULT_DATE = 'fs'
+# DEFAULT_DATE = 'fs'
 
 THEME = './theme/'
 SITESUBTITLE = "An african's mind"
