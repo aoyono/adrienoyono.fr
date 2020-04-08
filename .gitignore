@@ -5,6 +5,6 @@ __pycache__/
 output
 *~
 *.pid
-Makefile
-fabfile.py
-plugins
+public
+deploy.sh
+

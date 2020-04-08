@@ -1,10 +1,12 @@
+---
 title: Découverte d'openstreetmap
-tags: tuiles, openstreetmap, libre
+tags: [tuiles, openstreetmap, libre]
 status: published
 slug: decouverte-d-openstreetmap
-lang: fr
 author: Morning Dew
 date: 2018-07-28
+images: 
+---
 
 
 [Openstreetmap](https://www.openstreetmap.org/)          est
@@ -232,7 +234,7 @@ style en plus pour l'élément `<div id="map"></div>`: ```html
 Avec cette modification, le  résultat attendu apparaît enfin
 !
 
-![welcome_page_nginx]({filename}/images/decouverte-osm/welcome_nginx.png)
+![welcome_page_nginx](/images/decouverte-osm/welcome_nginx.png)
 
 
 
