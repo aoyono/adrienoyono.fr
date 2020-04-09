@@ -16,8 +16,8 @@ disqusShortname = "aoyono"
 [params]
   description = "An african's mind"
   author = "Adrien Oyono"
-  info = "Multipurpose engineer, wannabe scientist, generalist tinkerer and thinker"
-  keywords = "blog, engineering, python, developer, scientist"
+  info = "Aerospace & Software engineer"
+  keywords = "blog, engineering, python, developer, scientist, Africa, Cameroon"
   gravatar = "adrienoyono@gmail.com"
 
   footercontent = "All rights reserved"
@@ -73,11 +73,6 @@ disqusShortname = "aoyono"
     icon = "fab fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/adrienoyono/"
-[[params.social]]
-    name = "Facebook"
-    icon = "fab fa-facebook"
-    weight = 4
-    url = "https://www.facebook.com/oyono.owono/"
 [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram"
