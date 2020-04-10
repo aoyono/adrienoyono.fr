@@ -5,7 +5,6 @@ status: published
 slug: decouverte-d-openstreetmap
 author: Morning Dew
 date: 2018-07-28
-images: 
 ---
 
 

@@ -4603,7 +4603,7 @@ ts.plot()
 
     <matplotlib.axes._subplots.AxesSubplot at 0x7fc3a2db3748>
 
-<img src="/images/an_mod_donnees_python_pandas/output_165_1.png" style="background-color: white;" />
+<img src="/images/an_mod_donnees_python_pandas/output_165_1.png" alt="output_165_1" style="background-color: white;" />
 
 
 
@@ -4620,8 +4620,7 @@ df.plot()
 
     <matplotlib.axes._subplots.AxesSubplot at 0x7fc3a2a7d470>
 
-
-<img src="/images/an_mod_donnees_python_pandas/output_169_1.png" style="background-color: white;" />
+<img src="/images/an_mod_donnees_python_pandas/output_169_1.png" alt="output_169_1" style="background-color: white;" />
 
 
 ## Gestion des entrées / sorties des données
