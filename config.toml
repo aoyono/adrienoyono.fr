@@ -45,6 +45,10 @@ disqusShortname = "aoyono"
   [markup.highlight]
     style = "solarized-dark"
 
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 [menu]
   [[menu.main]]
