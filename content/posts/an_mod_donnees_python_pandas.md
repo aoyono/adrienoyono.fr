@@ -2,6 +2,7 @@
 title: Analyse et Modélisation de données en Python avec Pandas
 status: published
 date: 2019-07-06
+tags: [python, science, informatique, programmation]
 ---
 
 

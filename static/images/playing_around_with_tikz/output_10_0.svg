@@ -1,0 +1,30 @@
+<svg height="240px" version="1.1" viewBox="0 0 34.016 26.929" width="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0 L 34.015625 0 L 34.015625 26.929688 L 0 26.929688 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 21 L 34.015625 21 L 34.015625 22 L 0 22 Z M 0 21 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 2 0 L 4 0 L 4 26.929688 L 2 26.929688 Z M 2 0 "/>
+</clipPath>
+<clipPath id="clip4">
+  <path d="M 0 0 L 34.015625 0 L 34.015625 26.929688 L 0 26.929688 Z M 0 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path d="M -39.686563 -28.345469 L 39.684531 -28.345469 M -39.686563 -14.173594 L 39.684531 -14.173594 M -39.686563 -0.00171875 L 39.684531 -0.00171875 M -39.686563 14.174062 L 39.684531 14.174062 M -39.686563 28.345937 L 39.684531 28.345937 M -28.346719 -39.685313 L -28.346719 39.685781 M -14.174844 -39.685313 L -14.174844 39.685781 M 0.0009375 -39.685313 L 0.0009375 39.685781 M 14.172813 -39.685313 L 14.172813 39.685781 M 28.348594 -39.685313 L 28.348594 39.685781 " style="fill:none;stroke-width:0.19925;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(50%,50%,50%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,2.835,21.26)"/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path d="M -42.518594 -0.00171875 L 42.520469 -0.00171875 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,2.835,21.26)"/>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path d="M 0.0009375 -42.52125 L 0.0009375 42.521719 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,2.835,21.26)"/>
+</g>
+<g clip-path="url(#clip4)" clip-rule="nonzero">
+<path d="M 28.348594 -0.00171875 C 28.348594 15.654531 15.657188 28.345937 0.0009375 28.345937 C -15.655312 28.345937 -28.346719 15.654531 -28.346719 -0.00171875 C -28.346719 -15.654063 -15.655312 -28.345469 0.0009375 -28.345469 C 15.657188 -28.345469 28.348594 -15.654063 28.348594 -0.00171875 Z M 28.348594 -0.00171875 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,2.835,21.26)"/>
+</g>
+</g>
+</svg>

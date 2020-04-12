@@ -1,0 +1,20 @@
+<svg height="240px" version="1.1" viewBox="0 0 85.438 85.438" width="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 42 L 85.4375 42 L 85.4375 43 L 0 43 Z M 0 42 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 42 0 L 43 0 L 43 85.4375 L 42 85.4375 Z M 42 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<path d="M -39.683844 -28.347406 L 39.68725 -28.347406 M -39.683844 -14.171625 L 39.68725 -14.171625 M -39.683844 0.00025 L 39.68725 0.00025 M -39.683844 14.172125 L 39.68725 14.172125 M -39.683844 28.347906 L 39.68725 28.347906 M -28.347906 -39.68725 L -28.347906 39.683844 M -14.172125 -39.68725 L -14.172125 39.683844 M -0.00025 -39.68725 L -0.00025 39.683844 M 14.171625 -39.68725 L 14.171625 39.683844 M 28.347406 -39.68725 L 28.347406 39.683844 " style="fill:none;stroke-width:0.19925;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(50%,50%,50%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,42.719,42.719)"/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path d="M -42.519781 0.00025 L 42.519281 0.00025 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,42.719,42.719)"/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path d="M -0.00025 -42.519281 L -0.00025 42.519781 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,42.719,42.719)"/>
+</g>
+<path d="M 28.347406 0.00025 C 28.347406 15.6565 15.656 28.347906 -0.00025 28.347906 C -15.6565 28.347906 -28.347906 15.6565 -28.347906 0.00025 C -28.347906 -15.656 -15.6565 -28.347406 -0.00025 -28.347406 C 15.656 -28.347406 28.347406 -15.656 28.347406 0.00025 Z M 28.347406 0.00025 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,42.719,42.719)"/>
+</g>
+</svg>

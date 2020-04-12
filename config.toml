@@ -1,7 +1,7 @@
 baseURL = "https://adrienoyono.fr"
 title = "Morning Dew"
 theme = "hugo-coder"
-paginate = 5
+paginate = 10
 
 buildFuture = true
 enableEmoji = true
@@ -9,7 +9,7 @@ enableGitInfo = true
 enableInlineShortcodes = true
 enableRobotsTXT = true
 
-newContentEditor = "emacsclient -t"
+newContentEditor = "emacsclient"
 pluralizeListTitles = false
 disqusShortname = "aoyono"
 

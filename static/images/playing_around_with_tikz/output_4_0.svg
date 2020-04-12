@@ -1,0 +1,20 @@
+<svg height="240px" version="1.1" viewBox="0 0 85.438 85.438" width="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 42 L 85.4375 42 L 85.4375 43 L 0 43 Z M 0 42 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 42 0 L 43 0 L 43 85.4375 L 42 85.4375 Z M 42 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path d="M -42.519781 0.00025 L 42.519281 0.00025 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,42.719,42.719)"/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path d="M -0.00025 -42.519281 L -0.00025 42.519781 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,42.719,42.719)"/>
+</g>
+<path d="M -26.355719 15.730719 C -26.355719 16.832281 -27.246344 17.722906 -28.347906 17.722906 C -29.445563 17.722906 -30.340094 16.832281 -30.340094 15.730719 C -30.340094 14.633063 -29.445563 13.738531 -28.347906 13.738531 C -27.246344 13.738531 -26.355719 14.633063 -26.355719 15.730719 Z M -13.738531 28.347906 C -13.738531 29.445563 -14.633063 30.340094 -15.730719 30.340094 C -16.832281 30.340094 -17.722906 29.445563 -17.722906 28.347906 C -17.722906 27.246344 -16.832281 26.355719 -15.730719 26.355719 C -14.633063 26.355719 -13.738531 27.246344 -13.738531 28.347906 Z M 17.726312 28.347906 C 17.726312 29.445563 16.831781 30.340094 15.734125 30.340094 C 14.632562 30.340094 13.738031 29.445563 13.738031 28.347906 C 13.738031 27.246344 14.632562 26.355719 15.734125 26.355719 C 16.831781 26.355719 17.726312 27.246344 17.726312 28.347906 Z M 30.339594 15.730719 C 30.339594 16.832281 29.448969 17.722906 28.347406 17.722906 C 27.245844 17.722906 26.355219 16.832281 26.355219 15.730719 C 26.355219 14.633063 27.245844 13.738531 28.347406 13.738531 C 29.448969 13.738531 30.339594 14.633063 30.339594 15.730719 Z M 30.339594 15.730719 " style="fill-rule:nonzero;fill:rgb(50%,50%,50%);fill-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(50%,50%,50%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,42.719,42.719)"/>
+<path d="M -28.347906 0.00025 C -28.347906 15.730719 -15.730719 28.347906 -0.00025 28.347906 C 15.734125 28.347906 28.347406 15.730719 28.347406 0.00025 " style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" transform="matrix(1,0,0,-1,42.719,42.719)"/>
+</g>
+</svg>

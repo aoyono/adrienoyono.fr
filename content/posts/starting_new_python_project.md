@@ -3,6 +3,7 @@ status: published
 slug: starting-new-python-project-using-cookies
 title: Starting a new Python project using cookies
 date: 2018-04-20
+tags: [python]
 ---
 
 In this blog post, I talk about how to quickstart a new project in the
