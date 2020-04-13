@@ -1,6 +1,6 @@
 ---
 title: Réflexions métaphysiques
-tags: [phylosophie, maths, informatique]
+tags: [philosophie, maths, informatique]
 status: published
 date: 2018-06-01
 ---
