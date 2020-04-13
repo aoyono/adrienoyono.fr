@@ -231,9 +231,8 @@ Let's a grid to our frame and draw a circle on it:
 \draw (0,0) circle (1cm);
 \draw[step=.5cm] (-1.4,-1.4) grid (1.4,1.4);
 ```
-
-<img   src="/images/playing_around_with_tikz/output_9_0.svg"
-alt="output_9_0.svg" style="background-color: white;" />
+<img   src="/images/playing_around_with_tikz/output_8_0.svg"
+alt="output_8_0.svg" style="background-color: white;" />
 
 If we  want to give the  impression that the circle  and the
 frame are drawn on top of the grid, we have to play a little
@@ -250,8 +249,8 @@ away in the background:
 \draw (0,0) circle (1cm);
 ```
 
-<img   src="/images/playing_around_with_tikz/output_5_0.svg"
-alt="output_5_0.svg"  style="background-color:   white;"  />
+<img   src="/images/playing_around_with_tikz/output_9_0.svg"
+alt="output_9_0.svg" style="background-color: white;" />
 
 The `\clip` command is used to  zoom in and out. Here is the
 same graph as above, with a zoom in:
@@ -265,8 +264,9 @@ same graph as above, with a zoom in:
 \draw (0,0) circle (1cm);
 ```
 
-<img  src="/images/playing_around_with_tikz/output_10_0.svg"
-alt="output_10_0.svg"  style="background-color:  white;"  />
+<img   src="/images/playing_around_with_tikz/output_10_0.svg"
+alt="output_10_0.svg" style="background-color: white;" />
+
 
 It's also possible  to draw maths function  curves, like the
 `sin`:
