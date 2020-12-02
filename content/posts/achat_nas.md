@@ -12,20 +12,20 @@ tags:
 ---
 
 Après  avoir   longtemps  hésité  et  m'être   posé  moultes
-questions, j'ai  finalement décidé de me  lancé dans l'achat
+questions, j'ai finalement décidé  de me lancer dans l'achat
 d'un
 [NAS](https://en.wikipedia.org/wiki/Network-attached_storage). La
 motivation m'est venue suite à  la naissance imminente de ma
 fille,  au   caractère  international  de  ma   famille,  et
 également du fait que je ne voulais pas me résigner à rendre
 ma petite princesse ultra  populaire dans la vie alternative
-d'internet dès son plus bas age, sans qu'elle aie eu son mot
-à  dire.  J'espère  qu'elle  sera d'accord  avec  mon  choix
+d'internet dès son plus bas âge, sans qu'elle aie eu son mot
+à  dire.   J'espère qu'elle  sera  d'accord  avec mon  choix
 d'alors quand  elle sera grande  (si tu lis ceci  ma chérie,
 n'oublie pas que  je t'aime plus que  tout, quoiqu'il arrive
 :kiss:).
 
-J'avais         déjà         entendu        parlé         de
+J'avais         déjà        entendu         parler        de
 [FreeNAS](https://www.freenas.org/) par  des collègues, mais
 j'ai quand même parcouru un peu  le net pour voir ce qu'il y
 avait d'autre  sur le  marché.  Les  solutions propriétaires
@@ -46,7 +46,7 @@ de 3TB chacun.
 Ca a donc été une  nouvelle occasion d'en apprendre un peu
 plus sur  le monde merveilleux des  ordinateurs. En effet,
 La  lecture  de  la  documentation  de  FreeNAS  m'a  fait
-decouvrir   plein  de   choses  concernant   les  systemes
+découvrir   plein  de   choses  concernant   les  systèmes
 d'exploitation de  type UNIX. Unix  reste la mère  de tous
 ces  systèmes, et  BSD, qui  est basé  sur une version de
 recherche d'UNIX, est un de ses forks les plus importants.
@@ -107,14 +107,14 @@ trop cool (hahahaha qu'est ce que je suis marrant).
 
 Cette  configuration de  base terminée,  me voilà  l'heureux
 propriétaire  d'un  système  complexe  à  la  pointe  de  la
-technologie. La première application  faire de ce NAS, c'est
-me  créer un  cloud privé.  Comme j'aime  le logiciel  libre
-(vous l'aurez sans  doutes compris arrivé à  ce point), j'ai
-choisi  [Nextcloud](https://nextcloud.com/),  un  équivalent
-libre de Dropbox ou encore Google Drive. J'y reviendrai dans
-un autre article. Nextcloud  me permettra de sauvegarder des
-photos de ma fille et de les rendre accessibles à la famille
-éparpillée à travers le monde.
+technologie. La première application  que je compte faire de
+ce  NAS, c'est  me créer  un cloud  privé.  Comme  j'aime le
+logiciel libre (vous l'aurez sans doutes compris arrivé à ce
+point), j'ai  choisi [Nextcloud](https://nextcloud.com/), un
+équivalent  libre de  Dropbox  ou encore  Google Drive.  J'y
+reviendrai dans un autre  article. Nextcloud me permettra de
+sauvegarder  des  photos  de  ma  fille  et  de  les  rendre
+accessibles à la famille éparpillée à travers le monde.
 
 Voilà, c'est  à peu près tout  ce que j'avais à  dire sur ce
 sujet.  J'ai appris  beaucoup de  choses, et  me suis  rendu

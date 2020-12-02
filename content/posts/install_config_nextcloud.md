@@ -11,12 +11,12 @@ tags:
 ---
 
 Cet  article  fait  suite  à   celui  sur  l'[achat  de  mon
-NAS]({{ref
-"/posts/2019/12/freenas-achat-et-configuration"}}). Nextcloud
+NAS]({{< ref
+"achat_nas.md" >}}). Nextcloud
 était le moyen le plus facile pour moi de préserver ma fille
 des  sites des  réseaux sociaux,  tout en  permettant à  mes
 proches d'être témoins de son  évolution à travers photos et
-vidéos  en tant  réel. Bonne  nouvelle côté  technique, cela
+vidéos  en temps  réel. Bonne  nouvelle côté  technique, cela
 s'est  révélé plutôt  facile  à faire  avec l'offre  FreeNAS
 d'ixsystems. En  effet, ils ont  mis en place le  concept de
 [plugins](https://www.ixsystems.com/documentation/freenas/11.3-U1/plugins.html)
@@ -29,22 +29,22 @@ plugins d'ixsystems.  Ils s'appuient  sur le concept FreeBSD
 de
 [Jail](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/jails.html). Les
 Jails  de   FreeBSD  sont  équivalents  aux   containers  de
-GNU/Linux   (voir   [docker](https://www.docker.com/)).   Il
+GNU/Linux   (voir  [docker](https://www.docker.com/)).    Il
 s'agit d'une  virtualisation "légère" (au niveau  du système
 d'exploitation), qui  permettent à un ensemble  de processus
-de  s'exécuter   de  manière  isolée   dans  l'environnement
-hôte.  Les plugins  sont Jails  déjà pré-configurés  avec un
-ensemble  de logiciels  prêts à  utiliser (généralement  des
+de s'exécuter  de manière isolée dans  l'environnement hôte.
+Les  plugins  sont des  Jails  déjà  pré-configurés avec  un
+ensemble  de  logiciels  prêts  à  utiliser  (notamment  des
 applications web, comme Nextcloud).
 
 Pour installer  le plugin  nextcloud, il  suffit donc  de se
 rendre dans l'interface web d'administration du FreeNAS (une
-application   web  Django   d'ailleurs),  dans   la  section
-"Plugins"   et   choisir    nextcloud   puis   cliquer   sur
-"installer". Ca peut-être long, car le processus installe et
-configure  plusieurs paquets  (pour nextcloud,  par exemple,
-php,  nginx,  mysql, etc.).   Une  fois  que le  plugin  est
-installé,  il  faut  terminer l'installation  (spécifique  à
+application  web  développée  en Python  avec  le  framework
+Django), dans la section "Plugins" et choisir nextcloud puis
+cliquer sur "installer". Ca peut-être long, car le processus
+installe et configure plusieurs paquets (pour nextcloud, par
+exemple, php, nginx,  mysql, etc.).  Une fois  que le plugin
+est installé, il faut  terminer l'installation (spécifique à
 nextcloud),  lors de  la  première  connexion à  l'interface
 utilisateur. Cette  dernière phase  était assez  pénible car
 l'interface  de  nextcloud  exigeait de  connaître  certains
