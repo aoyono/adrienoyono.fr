@@ -85,3 +85,6 @@ disqusShortname = "aoyono"
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
+
+[frontmatter]
+  lastmod = [':git', ':default']
