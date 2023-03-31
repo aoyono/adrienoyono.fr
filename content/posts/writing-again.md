@@ -1,9 +1,9 @@
----
-draft: true
+ ---
 date: 2023-03-31T22:17:12+01:00
 title: "Writing Again"
 tags: [meta, ramblings]
 categories: [personal]
+status: published
 ---
 
 A little less than 3 years have passed now since my last blog post. It
