@@ -8,3 +8,13 @@ output
 public
 deploy.sh
 
+# macOS
+.DS_Store
+
+# Hugo
+.hugo_build.lock
+resources/_gen/
+
+# Local scratch
+somepublic/
+themes/hugo-coder_old/
