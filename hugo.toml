@@ -1,7 +1,7 @@
 baseURL = "https://adrienoyono.fr"
 title = "Morning Dew"
 theme = "hugo-coder"
-paginate = 10
+# paginate = 10
 
 buildFuture = true
 enableEmoji = true
@@ -12,6 +12,9 @@ enableRobotsTXT = true
 newContentEditor = "emacsclient"
 pluralizeListTitles = false
 disqusShortname = "aoyono"
+
+[pagination]
+pagerSize = 10
 
 [params]
   description = "An african's mind"
@@ -67,21 +70,21 @@ disqusShortname = "aoyono"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/aoyono/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/onoyoyono/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 3
-    url = "https://www.linkedin.com/in/adrienoyono/"
-[[params.social]]
-    name = "Instagram"
-    icon = "fab fa-instagram"
-    weight = 5
-    url = "https://www.instagram.com/oyononoyo/"
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fab fa-twitter fa-2x"
+#     weight = 3
+#     url = "https://twitter.com/onoyoyono/"
+# [[params.social]]
+#     name = "LinkedIn"
+#     icon = "fab fa-linkedin"
+#     weight = 3
+#     url = "https://www.linkedin.com/in/adrienoyono/"
+# [[params.social]]
+#     name = "Instagram"
+#     icon = "fab fa-instagram"
+#     weight = 5
+#     url = "https://www.instagram.com/oyononoyo/"
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
