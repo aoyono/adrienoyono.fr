@@ -45,3 +45,20 @@ So there you have it: if you are a scuba diver, you can promote
 Free-as-in-Freedom software by ditching your proprietary divelog
 software for the **superior** (because Linus creates superior tools)
 FOSS alternative that is Subsurface!
+
+Let's finish with a nice
+[quote](https://en.wikiquote.org/wiki/Linus_Torvalds) from Sir
+Torvalds (emphasis mine):
+
+>Don’t EVER make the mistake that you can design something better than
+what you get from **ruthless massively parallel trial-and-error with a
+feedback cycle.**
+>
+>That's giving your intelligence much too much credit.
+
+I already learned about this in my youth, with Naruto. Yes, Naruto
+training to master Rasengan, see by yourself:
+
+<img src="/images/subsurface/naruto_rasengan.jpeg" alt="Naruto training to master Rasengan" style="display: block;margin-left: auto;margin-right: auto;width: 50%" />
+
+Who said Mangas/Animes don't teach you anything?

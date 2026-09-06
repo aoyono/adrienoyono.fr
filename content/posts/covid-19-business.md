@@ -10,8 +10,7 @@ in the heart.  So I am  about to question a number of things
 happening in this weird era I am living in.
 
 If you read french and often read my ramblings on this blog,
-then    you   know    from    my    [last   post]({{<    ref
-"/posts/2020/07/farewell-andy"}})  that  my father  recently
+then    you   know    from    my    [last   post]({{< ref "my_dad.md" >}})  that  my father  recently
 passed away in Cameroon. I  wasn't able to travel back there
 from  my  current  place  of   residence  (UK)  due  to  the
 restrictions imposed worldwide in  an attempt to contain the
